@@ -1,0 +1,31 @@
+DATAS DE BANCO DE DADOS COM POO
+
+01/11: primeira fase: enviar a documentação sobre a modelagem de dados 
+
+06/12: segunda fase - enviar toda documentação sobre o desenvolvimento de uma aplicação, envolvendo validação e testes.
+
+07/11: 1ª prova (teórica - discursiva e objetiva)
+
+28/11: 2ª prova (teórica - discursiva e objetiva)
+
+
+ESTÁGIO - GERAL:
+
+- POSTMAN: estruturação de arquivo -> pasta para rotas -> pasta para cada verbo - título do teste
+
+- bugs com testes separados
+
+- rotas alternativas 
+
+
+
+
+RAFA NUNES 
+GIZELE 
+
+ 
+TALISSON
+JOSE 
+VYNICIUS
+
+
